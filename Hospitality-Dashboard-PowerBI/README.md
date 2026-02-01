@@ -1,10 +1,10 @@
-# 🏨 Hospitality Industry Dashboard — Power BI Project
+# Hospitality Industry Dashboard — Power BI Project
 
 This project presents an interactive **Hospitality Analytics Dashboard** built in Power BI, designed to help hotel stakeholders monitor performance, identify trends, and make data-driven decisions across revenue, occupancy, booking behavior, and room performance.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 This dashboard analyzes key hospitality metrics and provides actionable insights related to:
 - Revenue performance
 - Occupancy % trends
@@ -18,7 +18,7 @@ The goal is to deliver a **single source of truth** for hotel managers and decis
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 - Analyze revenue distribution across categories
 - Track weekly and monthly demand patterns
 - Compare performance across properties
@@ -27,7 +27,7 @@ The goal is to deliver a **single source of truth** for hotel managers and decis
 
 ---
 
-## 📊 Key KPIs Included
+## Key KPIs Included
 The dashboard highlights the following essential KPIs for **Atliq Grands**:
 - Total Revenue
 - RevPAR (Revenue Per Available Room)
@@ -40,7 +40,7 @@ These KPIs measure operational efficiency, demand, and revenue management perfor
 
 ---
 
-## 📈 Dashboard Visuals
+## Dashboard Visuals
 
 ### **1️⃣ Properties by Key Metrics (Comparison Table)**
 A sortable comparison table showing:
@@ -123,14 +123,14 @@ Hospitality-Dashboard-PowerBI/
 
 ---
 
-## 🙌 Credits
+## Credits
 Project inspiration adapted from **CodeBasics Analytics Challenge**.  
 Full credit to the original creators for dataset, structure, and challenge design.
 
 ---
 
 ## 📬 Connect With Me
-👨‍💻 **Created By:** Rahul Singh Thakur  
+👨‍💻 **Created By:** Rahul Singh 
 🔗 LinkedIn: https://www.linkedin.com/in/rahulthakur-analytics  
 🐙 GitHub: https://github.com/RahulSingh8080  
 ✉️ Email: rahulthakur.analytics@gmail.com
