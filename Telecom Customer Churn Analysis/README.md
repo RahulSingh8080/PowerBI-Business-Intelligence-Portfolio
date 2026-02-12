@@ -65,6 +65,8 @@ The focus is not just on visualization — but on **data validation, KPI accurac
 - Tenure groups  
 - Stated churn reasons  
 
+<img width="1356" height="808" alt="image" src="https://github.com/user-attachments/assets/9933fd9b-1100-4cd1-a2f8-c32347bec692" />
+
 ---
 
 ### 3️⃣ SQL Validation
@@ -83,6 +85,8 @@ The focus is not just on visualization — but on **data validation, KPI accurac
 - Designed structured visual layout  
 - Developed revenue impact visuals  
 - Enabled business-driven storytelling  
+
+<img width="1347" height="753" alt="image" src="https://github.com/user-attachments/assets/24799320-2db9-4e23-88eb-28dea494abcc" />
 
 ---
 
