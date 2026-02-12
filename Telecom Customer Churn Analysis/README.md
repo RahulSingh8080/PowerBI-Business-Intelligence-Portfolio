@@ -10,6 +10,9 @@ This project performs an end-to-end churn analysis to identify key churn drivers
 
 The focus is not just on visualization — but on **data validation, KPI accuracy, and business insights.**
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b18e62bb-3104-48e9-9200-e6ffabccd93c" />
+
+
 ---
 
 ## Objectives
